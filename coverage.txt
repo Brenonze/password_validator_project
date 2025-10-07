@@ -1,0 +1,14 @@
+/home/sandbox/.local/lib/python3.11/site-packages/ddtrace/vendor/psutil/_pslinux.py:527: RuntimeWarning: 'sin' and 'sout' swap memory stats couldn't be determined and were set to 0 ([Errno 2] No such file or directory: '/proc/vmstat')
+  warnings.warn(msg, RuntimeWarning)
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                                             [100%][0m
+
+---------- coverage: platform linux, python 3.11.8-final-0 -----------
+Name               Stmts   Miss  Cover
+--------------------------------------
+app/__init__.py        1      0   100%
+app/validator.py      29      0   100%
+--------------------------------------
+TOTAL                 30      0   100%
+Coverage HTML written to dir htmlcov
+
+[32m[32m[1m12 passed[0m[32m in 0.70s[0m[0m
